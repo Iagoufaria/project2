@@ -1,0 +1,48 @@
+
+
+
+header {
+  font-family: $fontBase;
+  margin: 2% 3%;
+  padding: none;
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+  align-items: center;
+    
+}
+
+.logo {
+  width: 201px;
+  height: 56px;
+  left: 42px;
+  top: 30px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 75px;
+  color: $baseColor;
+}
+
+.logo span {
+  color: black;
+}
+
+header #headerOptions {
+  list-style: none;
+  margin-top: 1.87rem;
+  width: 43.75rem;
+  font-size: 30px;
+  color: #000000;
+}
+#headerOptions > li {
+  display: inline;
+  padding: 1.4rem;
+}
+ul > #loginButton {
+  padding: 1rem 4rem;
+  color: white;
+  background: #D6000D;
+  border-radius: 20px;
+}

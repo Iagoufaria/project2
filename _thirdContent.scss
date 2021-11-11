@@ -1,0 +1,40 @@
+.thirdContent {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 440px;
+  margin-top: 186px;
+
+}
+
+
+#cellInput {
+  border-style: none;
+  width: 340px;
+  height: 80px;
+  border-radius: 10px;
+  background-color: #D9D9D9;
+  
+  
+  
+}
+
+#buttonCall {
+  border-style: none;
+  width: 360px;
+  height: 80px;
+  background-color: $baseColor;
+  border-radius: 10px;
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  margin-left: 370px;
+
+}
+
+
+#nossaEquipe {
+  font-size: 30px;
+  font-family: $fontBase;
+  font-weight: normal;
+  margin-top: -95px; 
+}

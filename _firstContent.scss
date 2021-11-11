@@ -1,0 +1,45 @@
+.firstContent {
+  margin: 0% 11%;
+  font-family: $fontBase;
+  height: 554px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.firstContent img {
+  width: 554px;
+  margin-left: 112px;
+  padding-top: 203px;
+}
+
+.firstContentText {
+  padding-top: 9.37rem;
+}
+
+.firstContentText h2{
+  font-size: 1.87rem;
+  font-style: $fontBase;
+  margin-bottom: -38px;
+}
+
+.firstContentText h1 {
+  color: $baseColor;
+  font-size: 72px;
+  width: 528px;
+
+}
+
+.firstContentText button {
+  border-style: none;
+  color: white;
+  font-size: 30px;
+  line-height: 35px;
+  background-color: $baseColor;
+  width: 454px;
+  height: 71px;
+  left: 824px;
+  top: 553px;
+  border-radius: 10px;
+  
+}
